@@ -8,8 +8,8 @@
     <ProjectGuid>{9642D9D3-C09A-4E81-AE9F-C3EA1D2856AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WinGrep2</RootNamespace>
-    <AssemblyName>WinGrep2</AssemblyName>
+    <RootNamespace>WinGrep</RootNamespace>
+    <AssemblyName>WinGrep</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
@@ -83,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
